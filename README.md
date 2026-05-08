@@ -12,12 +12,6 @@ This project is a comprehensive full-stack web application for a national car re
 - **CI/CD:** GitHub Actions.
 - **AI Integration:** Sentiment Analysis for customer reviews.
 
-## Key Features
-- Responsive UI for dealership browsing.
-- User authentication (Login/Logout/Register).
-- Sentiment Analysis for dealer reviews.
-- Continuous Integration and Deployment.
-
 # Repository Name: x-final-cloud-app-with-database
 # Project Name: Cars Dealership Web Application
 
