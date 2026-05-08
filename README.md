@@ -18,5 +18,15 @@ This project is a comprehensive full-stack web application for a national car re
 - Sentiment Analysis for dealer reviews.
 - Continuous Integration and Deployment.
 
-## Author
-[Your Name Here]
+# Repository Name: x-final-cloud-app-with-database
+# Project Name: Cars Dealership Web Application
+
+## Description
+This is the Full-stack Development Capstone Project for a national car retailer in the U.S. 
+The application allows users to view dealership branches, read reviews, and post feedback with sentiment analysis.
+
+## Key Features
+- Django Backend
+- React Frontend
+- Node.js Microservice for Sentiment Analysis
+- Docker & Kubernetes Deployment
