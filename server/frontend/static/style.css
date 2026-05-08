@@ -1,4 +1,11 @@
 /* style.css */
+/* server/frontend/static/style.css */
+body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; }
+.container { background: white; margin: 20px auto; padding: 20px; width: 80%; border-radius: 10px; }
+nav { background: #333; padding: 10px; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+nav a.active { color: orange; font-weight: bold; }
+.card { border: 1px solid #ddd; display: inline-block; padding: 10px; }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
